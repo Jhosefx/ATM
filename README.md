@@ -10,4 +10,4 @@
 - [x] ATM CASH
 
 # RESULTADO
-<img src=""/>
+<img src="https://github.com/Jhosefx/ATM/blob/master/Git/Resultado.png"/>
