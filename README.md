@@ -10,6 +10,7 @@
 ### Features
 
 - [x] ATM CASH
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 # Results
 <img src="https://github.com/Jhosefx/ATM/blob/master/Git/Resultado.png"/>
